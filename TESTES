@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LUCAS/Aula Noite</title>
+</head>
+
+<!-- body style="background-color: red;" (USADO PARA TROCAR A COR DO FUNDO DO SITE) -->
+
+<body style="background-color: rgba(255, 255, 255, 0.829);">
+    <h1>EXERCICIOS:</h1>
+    <hr>
+    <h2>EXERCICIO 1:</h2>
+    <br>
+
+    <!-- lISTA NUMERADA -->
+
+    <h3>LISTA FILMES FAVORITOS EM LISTA ORDENADA</h3>
+    <ol>
+        <li>Paulo - Apostolo de Cristo</li>
+        <li>A paixao de Cristo - 2004</li>
+        <li>Homem Aranha sem volta pra casa</li>
+        <li>Ate o ultimo homem</li>
+        <li>Interestelar</li>
+    </ol>
+
+    <!-- lISTA NAO NUMERADA -->
+
+      <h3>LISTA FILMES FAVORITOS EM LISTA NAO ORDENADA</h3>
+    <ul>
+        <li>Paulo - Apostolo de Cristo</li>
+        <li>A paixao de Cristo - 2004</li>
+        <li>Homem Aranha sem volta pra casa</li>
+        <li>Ate o ultimo homem</li>
+        <li>Interestelar</li>
+    </ul>
+
+    <h1>APERTE O BOTAO PARA ACESSAR O GOOGLE</h1>
+
+    <a href="https://google.com" target="_blank"><button>BOTAO</button> 
+    </a>
+
+</body>
+</html>    
